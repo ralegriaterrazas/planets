@@ -1,2 +1,0 @@
-# planets
-software carpentry lesson
